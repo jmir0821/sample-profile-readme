@@ -4,7 +4,6 @@ I am currently in an Intro to Cybersecurity class at UTSA as a Freshman. Some of
 ## ⚒️ Skills
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-#fb2be7?logo=python&logoColor=white)
 ## 🎉 Interests
 ![Artifical Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
